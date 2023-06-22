@@ -53,6 +53,27 @@ button:hover{
     background-color: #48586f;
 }
 
+a{
+    text-decoration: none; 
+    background-color: rgb(209, 209, 209, 0);
+    color:white;
+}
+a:link{
+    text-decoration: none;
+    background-color: rgb(209, 209, 209, 0);
+    color:white;
+}   
+a:visited{
+    text-decoration: none;
+    background-color: rgb(209, 209, 209, 0);
+    color:white;
+}
+a:active{
+    text-decoration: none;
+    background-color: rgb(209, 209, 209, 0);
+    color:white;
+}
+
 @media screen and (max-width: 750px){
     #img{
         width: 350px;
